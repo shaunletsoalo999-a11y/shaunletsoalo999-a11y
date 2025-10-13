@@ -18,7 +18,7 @@ Currently, I’m building a strong foundation in **Data Science**, **AI**, and *
 Python | Pandas | SQL | NumPy | Matplotlib | Jupyter Notebook  
 
 **Cloud & Data Platforms:**  
-Microsoft Azure | Azure Data Studio | Power BI (beginner)  
+Microsoft Azure | Azure Data Studio
 
 **Core Competencies:**  
 Data Cleaning | Exploratory Data Analysis (EDA) | Data Visualization | Problem Solving | Continuous Learning  
@@ -26,11 +26,10 @@ Data Cleaning | Exploratory Data Analysis (EDA) | Data Visualization | Problem S
 ## 🌱 Current Focus
 - Developing **data-driven projects** that help the youth access career guidance and learning resources  
 - Exploring how **AI** can enhance education, analytics, and community impact  
-- Building **Elevate AI**, an initiative focused on empowering young people through technology and data  
----
+
 ## 📫 Connect With Me
-- 🌍 GitHub: [YourUsername](https://github.com/YourUsername)  
-- 💼 LinkedIn: [Add your link here]  
-- ✉️ Email: [Your email here]  
+- 🌍 GitHub: [shaunletsoalo999-a11y](https://github.com shaunletsoalo999-a11y)  
+- 💼 LinkedIn: [shaun letsoalo]  
+- ✉️ Email: [shaunletsoalo999@gmail.com]  
 ---
 ⭐ *“Data tells stories — I’m here to help uncover them.”*
