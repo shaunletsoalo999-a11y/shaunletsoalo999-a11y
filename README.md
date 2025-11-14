@@ -48,7 +48,7 @@ Data Cleaning | Exploratory Data Analysis (EDA) | Data Visualization | Statistic
 
 ## 📫 Let’s Connect  
 - 🌐 GitHub:  [shaunletsoalo999-a11y](https://github.com shaunletsoalo999-a11y)    
-- 💼 LinkedIn: [shaun letsoalo]  
+- 💼 LinkedIn: [ https://www.linkedin.com/in/shaun-letsoalo-30b239373/overlay/about-this-profile/shaun letsoalo]  
 - ✉️ Email: [shaunletsoalo999@gmail.com]    
 
 ---
