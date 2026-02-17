@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me  
-I’m deeply passionate about leveraging data and artificial intelligence to solve real-world problems and empower communities.  
+I’m deeply passionate about leveraging data and artificial intelligence to solve real world problems and empower communities.  
 My journey blends curiosity, creativity, and a strong technical foundation — guided by a mission to use data for meaningful change.  
 
 Currently, I’m developing my expertise in **Data Science**, **Cloud Computing**, and **Machine Learning**, while building projects that inspire innovation and opportunity.  
