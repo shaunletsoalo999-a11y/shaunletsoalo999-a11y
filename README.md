@@ -15,7 +15,7 @@ Currently, I’m developing my expertise in **Data Science**, **Cloud Computing*
 ## 🚀 Learning & Development  
 - 🐍 **Python Essentials 1 Certified**  
 - 📊 Proficient in **Pandas** for data analysis, cleaning, and manipulation  
-- 🧩 Expanding my skills in **SQL** for database querying and management  
+- 🧩 Proficient in **SQL** for database querying and management  
 - ☁️ Preparing for **Microsoft Azure Data Fundamentals (DP-900)** certification  
 - 💡 Soon pursuing **DP-600: Microsoft Fabric Analytics Engineer** to advance in cloud analytics  
 
