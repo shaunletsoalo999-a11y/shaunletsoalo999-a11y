@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaun  
 
-🎯 **Aspiring Data Scientist | Python Developer | Cloud & AI Enthusiast**  
+🎯 ** Data Scientist | Python Developer | Cloud & AI Enthusiast**  
 
 ---
 
